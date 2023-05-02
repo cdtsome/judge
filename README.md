@@ -1,2 +1,7 @@
-# judge
-酷丁编程测评机代码
+利用漏洞从测评机里手动输出出来的，可能有遗漏或者错误
+
+具体过程类似这样：
+```bash
+ls -A -R /src/codingtang/
+cat /src/codingtang/judge/__init__.py
+```
