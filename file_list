@@ -1,0 +1,294 @@
+/src/codingtang/:
+total 22M
+drwxrwxr-x 2 root root 4.0K Aug 22  2022 .idea
+-rw-r--r-- 1 root root    0 Apr  6 12:04 .out
+-rw-r--r-- 1 root root    0 Feb 12 11:46 1000.in
+-rw-r--r-- 1 root root    0 Mar 18 08:09 1000.out
+-rw-r--r-- 1 root root    0 Mar 11 10:09 1001.out
+-rw-r--r-- 1 root root    1 Mar 10 23:57 1004.out
+-rw-r--r-- 1 root root   28 Mar 27 08:23 1014.out
+-rw-r--r-- 1 root root 257K Feb 18 13:37 1096.out
+-rw-r--r-- 1 root root    0 Feb 26 02:14 1097.out
+-rw-r--r-- 1 root root    0 Mar  8 09:25 1102.out
+-rw-r--r-- 1 root root    3 Feb 27 12:15 1144.out
+-rw-r--r-- 1 root root    0 Mar 26 13:33 1152.out
+-rw-r--r-- 1 root root    1 Mar 31 12:19 1153.out
+-rw-r--r-- 1 root root   10 Feb 23 12:03 1160.out
+-rw-r--r-- 1 root root   10 Mar 26 07:18 1166.cpp
+-rw-r--r-- 1 root root   10 Mar 25 03:31 1166.o
+-rw-r--r-- 1 root root    0 Mar 30 13:42 1166.out
+-rw-r--r-- 1 root root    0 Mar  5 10:10 1281.out
+-rw-r--r-- 1 root root    1 Feb 26 02:22 1288,out
+-rw-r--r-- 1 root root 128K Feb 25 12:59 1318.out
+-rw-r--r-- 1 root root   19 Apr  2 04:43 1338.out
+-rw-r--r-- 1 root root   10 Mar  9 12:50 1351.out
+-rw-r--r-- 1 root root    3 Mar  7 03:58 1376.out
+-rw-r--r-- 1 root root    1 Mar 30 12:46 1432.out
+-rw-r--r-- 1 root root    0 Apr 10 04:20 1439.out
+-rw-r--r-- 1 root root    0 Feb 26 01:54 1497.out
+-rw-r--r-- 1 root root    2 Mar 18 12:59 1654.out
+-rw-r--r-- 1 root root    1 Mar  5 07:41 1732.out
+-rw-r--r-- 1 root root    1 Mar  6 04:42 1834.out
+-rw-r--r-- 1 root root   19 Mar 17 16:16 2.out
+-rw-r--r-- 1 root root    6 Mar  4 09:05 2007.out
+-rw-r--r-- 1 root root    6 Mar  5 07:47 2052.out
+-rw-r--r-- 1 root root   32 Feb  7 13:54 2133.out
+-rw-r--r-- 1 root root  46K Mar 11 11:18 2434.out
+-rw-r--r-- 1 root root    0 Mar 12 07:01 2560.out
+-rw-r--r-- 1 root root    0 Mar 27 05:36 2622.out
+-rw-r--r-- 1 root root    0 Apr  6 05:19 2662.out
+-rw-r--r-- 1 root root   15 Mar 16 12:33 2685.out
+-rw-r--r-- 1 root root    3 Feb 24 12:19 2688,out
+-rw-r--r-- 1 root root   16 Mar  2 09:10 2688.out
+-rw-r--r-- 1 root root    1 Mar 31 14:09 2699.out
+-rw-r--r-- 1 root root    0 Feb  8 13:13 2703.out
+-rw-r--r-- 1 root root    1 Mar 28 04:43 2711.out
+-rw-r--r-- 1 root root    4 Apr  2 03:13 2746.out
+-rw-r--r-- 1 root root    1 Feb 18 02:31 2791.out
+-rw-r--r-- 1 root root    0 Mar  7 05:22 2811.out
+-rw-r--r-- 1 root root  10M Mar  1 13:46 3684.out
+-rw-r--r-- 1 root root    3 Feb  7 10:13 3947.out
+-rw-r--r-- 1 root root    2 Mar 30 04:01 4182.out
+-rw-r--r-- 1 root root    0 Mar 30 14:23 4360.out
+-rw-r--r-- 1 root root    1 Feb 22 12:21 4361.out
+-rw-r--r-- 1 root root    1 Mar 30 04:52 4362.out
+-rw-r--r-- 1 root root    0 Feb 19 02:22 4468.out
+-rw-r--r-- 1 root root    1 Mar 27 09:28 4528.out
+-rw-r--r-- 1 root root    0 Apr 22 04:38 4902.out
+-rw-r--r-- 1 root root  64K Apr 16 09:06 4903.out
+-rw-r--r-- 1 root root    7 Mar 28 05:07 4996.out
+-rw-r--r-- 1 root root    1 Feb 10 07:32 5484.out
+-rw-r--r-- 1 root root    0 Mar 28 11:40 5547.out
+-rw-r--r-- 1 root root    0 Mar 26 08:39 5581,out
+-rw-r--r-- 1 root root    1 Mar 30 13:06 5581.out
+-rw-r--r-- 1 root root    1 Feb 12 07:14 5585.out
+-rw-r--r-- 1 root root    1 Mar  8 13:09 5602.out
+-rw-r--r-- 1 root root    0 Apr 28 03:06 5606.out
+-rw-r--r-- 1 root root    0 Apr 22 03:02 6135.out
+-rw-r--r-- 1 root root   11 Feb 18 13:04 6177.out
+-rw-r--r-- 1 root root    3 Mar 12 07:07 6530.out
+-rw-r--r-- 1 root root    5 Mar 26 14:42 6744.out
+-rw-r--r-- 1 root root    1 Feb 26 13:10 7085.out
+-rw-r--r-- 1 root root    1 Feb 17 14:59 7093.out
+-rw-r--r-- 1 root root    2 Apr  1 23:03 7094.out
+-rw-r--r-- 1 root root    1 Feb 15 08:31 7133.out
+-rw-r--r-- 1 root root    0 Feb 17 04:35 7134.out
+-rw-r--r-- 1 root root    1 Mar  6 15:57 7137.out
+-rw-r--r-- 1 root root    1 Mar 18 11:50 7163.out
+-rw-r--r-- 1 root root    0 Apr  1 06:48 7381.out
+-rw-r--r-- 1 root root    1 Apr  3 08:47 7393.out
+-rw-r--r-- 1 root root    2 Mar  5 07:29 7400.out
+-rw-r--r-- 1 root root    0 Mar  4 11:15 7576.out
+-rw-r--r-- 1 root root    0 Mar 17 10:10 7987.out
+-rw-r--r-- 1 root root   12 Feb 19 13:00 8430.out
+-rw-r--r-- 1 root root    0 Feb  7 11:31 8576.out
+-rw-r--r-- 1 root root    0 Apr  2 05:40 8671.out
+-rw-r--r-- 1 root root   15 Mar 18 16:35 8985.out
+-rw-r--r-- 1 root root    0 Feb 28 10:11 8990.out
+-rw-r--r-- 1 root root    1 Mar 29 13:29 8993.out
+-rw-r--r-- 1 root root   10 Mar 18 07:05 9005.out
+-rw-r--r-- 1 root root    0 Mar 18 07:08 9006.out
+-rw-r--r-- 1 root root 192K Mar 10 09:45 9106.out
+-rw-r--r-- 1 root root    0 Mar 30 13:15 9144.out
+-rw-r--r-- 1 root root    4 Apr 19 10:40 9190.out
+-rw-r--r-- 1 root root    4 Mar 27 05:31 9198.out
+-rw-r--r-- 1 root root    3 Mar 27 05:35 9199.out
+-rw-r--r-- 1 root root    7 Mar 27 05:39 9200.out
+-rw-r--r-- 1 root root    0 Apr 17 09:50 9213.out
+-rw-r--r-- 1 root root    0 Mar 28 13:21 9216.out
+-rw-r--r-- 1 root root    0 Mar 13 10:18 9245.out
+-rw-r--r-- 1 root root    0 Mar 14 12:17 9246.out
+-rw-r--r-- 1 root root    0 Apr 11 11:47 9247.out
+-rw-r--r-- 1 root root    1 Mar 14 14:02 9252.out
+-rw-r--r-- 1 root root   11 Mar 22 11:10 9294.out
+-rw-r--r-- 1 root root    1 Mar 21 14:50 9296.out
+-rw-r--r-- 1 root root   23 Apr 16 08:19 9339.out
+-rw-r--r-- 1 root root    0 Apr 11 15:32 9530.out
+-rw-r--r-- 1 root root    1 Feb 25 11:48 QAQ.in
+-rw-r--r-- 1 root root    1 Feb 21 11:53 addition.out
+-rw-r--r-- 1 root root    0 Apr 13 11:56 angrybirds.out
+-rw-r--r-- 1 root root    0 Apr  5 00:52 b.out
+-rw-r--r-- 1 root root    0 Apr 13 11:55 ball.out
+-rw-r--r-- 1 root root    4 Mar 27 13:54 bike.out
+-rw-r--r-- 1 root root    0 Mar  7 05:06 box.out
+-rw-r--r-- 1 root root    0 Apr  1 03:05 busses.out
+-rw-r--r-- 1 root root    0 Mar 17 08:52 c.out
+-rw-r--r-- 1 root root    1 Mar 15 13:50 cake.out
+-rw-r--r-- 1 root root    0 Apr  5 14:48 canteen.out
+-rw-r--r-- 1 root root    1 Mar  4 11:52 car.out
+-rw-r--r-- 1 root root    0 Feb 28 11:26 cnt.out
+drwxrwxr-x 1 root root 4.0K Oct  3  2022 codingtang
+-rw-r--r-- 1 root root    1 Feb 14 14:15 compare.out
+-rw------- 1 root root 484K May  2 05:25 core
+-rw-r--r-- 1 root root    1 Apr 13 04:04 count.out
+-rw-r--r-- 1 root root    5 Mar  9 11:42 data.out
+-rw-r--r-- 1 root root   34 Feb 14 11:20 date.out
+-rw-r--r-- 1 root root    4 Feb  9 12:06 decimal. out
+-rw-r--r-- 1 root root    0 Feb 16 12:26 even.out
+-rw-r--r-- 1 root root    1 Mar  4 11:10 fee.out
+-rw-r--r-- 1 root root    5 Mar  4 12:21 fence.out
+-rw-r--r-- 1 root root    0 Mar  4 11:26 figure.out
+-rw-r--r-- 1 root root    5 Mar  6 00:33 fish.out
+-rw-r--r-- 1 root root    0 Mar  3 10:31 fly.out
+-rw-r--r-- 1 root root    0 Mar 16 11:35 game.out
+-rw-r--r-- 1 root root    4 Apr 12 10:39 grade.out
+-rw-r--r-- 1 root root    9 Feb 24 01:27 height.out
+-rw-r--r-- 1 root root    5 Mar  1 12:44 hello.out
+-rw-r--r-- 1 root root    0 Feb 23 12:24 history.out
+-rw-r--r-- 1 root root    0 Apr  5 05:01 jerry.out
+drwxrwxr-x 1 root root 4.0K Oct  3  2022 judge
+-rw-r--r-- 1 root root    0 Feb 28 12:42 landlords.out
+-rw-r--r-- 1 root root    0 Mar  7 11:39 lcm.out
+-rw-r--r-- 1 root root    1 Feb 20 12:46 lift.out
+-rw-r--r-- 1 root root    0 Mar 15 12:31 line.out
+drwxrwxr-x 1 root root 4.0K May  1 08:58 logs
+-rw-r--r-- 1 root root    0 Mar  2 12:59 lucky.out
+-rw-r--r-- 1 root root    0 Mar  3 12:08 luckynum.out
+-rw-r--r-- 1 root root    3 Feb 22 11:46 math.out
+-rw-r--r-- 1 root root   11 Feb 28 05:23 matrix.out
+-rw-r--r-- 1 root root   11 Mar  9 12:11 maze.out
+-rw-r--r-- 1 root root    3 Mar 26 13:22 message.out
+-rw-r--r-- 1 root root    0 Feb 12 11:45 minus.in
+-rw-r--r-- 1 root root   13 Apr 12 11:11 minus.out
+-rw-r--r-- 1 root root    1 Apr  8 04:15 minuss.out
+-rw-r--r-- 1 root root    5 Feb 28 11:37 mod.out
+-rw-r--r-- 1 root root    0 Mar 13 11:49 name.out
+-rw-r--r-- 1 root root  10M Mar  5 12:18 num.out
+-rw-r--r-- 1 root root    0 Mar 13 05:32 numbers.out
+-rw-r--r-- 1 root root    0 Feb  5 11:17 observe.out
+-rw-r--r-- 1 root root    0 Apr 15 01:21 order.out
+-rw-r--r-- 1 root root   12 Mar  4 11:22 palindrome.out
+-rw-r--r-- 1 root root    3 Mar  7 11:21 park.out
+-rw-r--r-- 1 root root    4 Mar 27 12:45 pass.out
+-rw-r--r-- 1 root root    1 Mar  7 12:01 pool.out
+-rw-r--r-- 1 root root    0 Feb 18 12:23 position.out
+-rw-r--r-- 1 root root    1 Mar 14 14:00 power.out
+-rw-r--r-- 1 root root    0 Apr  5 13:48 prize.out
+-rw-r--r-- 1 root root    9 Apr 11 13:05 program2.out
+-rw-r--r-- 1 root root    2 Feb 25 06:55 queue.out
+drwxrwxr-x 2 root root 4.0K Aug 22  2022 requirements
+-rw-r--r-- 1 root root    0 Mar 19 11:41 robot.out
+-rw-r--r-- 1 root root    0 Apr 21 13:58 rps.out
+-rw-r--r-- 1 root root    1 Mar 15 14:06 rt.out
+-rw-r--r-- 1 root root    3 Apr  1 12:09 s.out
+-rw-r--r-- 1 root root    1 Feb 15 08:25 savings.out
+-rw-r--r-- 1 root root    0 Apr 10 04:56 score.out
+-rw-r--r-- 1 root root   10 Mar  3 13:34 shopping.out
+-rw-r--r-- 1 root root    0 Feb 24 11:13 sistem.out
+-rw-r--r-- 1 root root    6 Feb  8 12:22 skyscraper.out
+-rw-r--r-- 1 root root   10 Mar  4 12:05 snackpark.out
+-rw-r--r-- 1 root root    1 Mar  5 11:17 sort.out
+-rw-r--r-- 1 root root    1 Mar  8 12:42 spiderman.out
+-rw-r--r-- 1 root root    1 Mar 20 04:06 station.out
+-rw-r--r-- 1 root root    2 Apr 10 12:55 stone.out
+-rw-r--r-- 1 root root    2 Apr  8 23:32 string.out
+-rw-r--r-- 1 root root    0 Mar  1 11:23 sum.out
+-rw-r--r-- 1 root root    2 Mar  3 11:41 time.out
+-rw-r--r-- 1 root root    2 Mar  8 12:15 travel.out
+-rw-r--r-- 1 root root    1 Mar 25 02:53 tree.in
+-rw-r--r-- 1 root root    2 Apr  5 03:23 tree.out
+-rw-r--r-- 1 root root    2 Apr 21 12:53 triangle.out
+-rw-r--r-- 1 root root    0 Mar 16 11:49 vigenere.out
+-rw-r--r-- 1 root root    1 Apr  5 03:19 vitamin.out
+-rw-r--r-- 1 root root    0 Apr 14 15:13 walk.out
+-rw-r--r-- 1 root root    1 Mar 10 09:59 way.out
+-rw-r--r-- 1 root root    1 Mar 18 02:04 words.out
+-rw-r--r-- 1 root root    0 Feb 28 11:55 work.out
+-rw-r--r-- 1 root root    0 Mar 27 09:31 writer.out
+
+/src/codingtang/.idea:
+total 20K
+-rw-rw-r-- 1 root root 1.3K Aug 22  2022 codingtang.iml
+-rw-rw-r-- 1 root root  135 Aug 22  2022 encodings.xml
+-rw-rw-r-- 1 root root  297 Aug 22  2022 misc.xml
+-rw-rw-r-- 1 root root  272 Aug 22  2022 modules.xml
+-rw-rw-r-- 1 root root  183 Aug 22  2022 vcs.xml
+
+/src/codingtang/codingtang:
+total 16K
+-rw-rw-r-- 1 root root    0 Aug 22  2022 __init__.py
+drwxr-xr-x 2 root root 4.0K Oct  3  2022 __pycache__
+drwxrwxr-x 1 root root 4.0K Oct  3  2022 settings
+-rw-rw-r-- 1 root root  799 Aug 22  2022 urls.py
+-rw-rw-r-- 1 root root  408 Aug 22  2022 wsgi.py
+
+/src/codingtang/codingtang/__pycache__:
+total 12K
+-rw-r--r-- 1 root root 129 Oct  3  2022 __init__.cpython-38.pyc
+-rw-r--r-- 1 root root 924 Oct  3  2022 urls.cpython-38.pyc
+-rw-r--r-- 1 root root 549 Oct  3  2022 wsgi.cpython-38.pyc
+
+/src/codingtang/codingtang/settings:
+total 20K
+-rw-rw-r-- 1 root root    0 Aug 22  2022 __init__.py
+drwxr-xr-x 2 root root 4.0K Oct  3  2022 __pycache__
+-rw-rw-r-- 1 root root 4.8K Aug 22  2022 base.py
+-rw-rw-r-- 1 root root  338 Aug 22  2022 local.py
+-rw-rw-r-- 1 root root  644 Aug 22  2022 production.py
+
+/src/codingtang/codingtang/settings/__pycache__:
+total 12K
+-rw-r--r-- 1 root root  138 Oct  3  2022 __init__.cpython-38.pyc
+-rw-r--r-- 1 root root 3.1K Oct  3  2022 base.cpython-38.pyc
+-rw-r--r-- 1 root root  175 Oct  3  2022 production.cpython-38.pyc
+
+/src/codingtang/judge:
+total 44K
+-rw-rw-r-- 1 root root    0 Aug 22  2022 __init__.py
+drwxr-xr-x 2 root root 4.0K Oct  3  2022 __pycache__
+-rw-rw-r-- 1 root root   63 Aug 22  2022 admin.py
+-rw-rw-r-- 1 root root   85 Aug 22  2022 apps.py
+-rw-rw-r-- 1 root root 1.5K Aug 28  2022 judge_callback.py
+-rw-rw-r-- 1 root root 1.7K Aug 22  2022 judge_thread.py
+-rw-rw-r-- 1 root root  175 Aug 22  2022 log.py
+drwxrwxr-x 2 root root 4.0K Aug 22  2022 migrations
+-rw-rw-r-- 1 root root   57 Aug 22  2022 models.py
+drwxrwxr-x 1 root root 4.0K Oct  3  2022 services
+-rw-rw-r-- 1 root root  387 Aug 22  2022 urls.py
+-rw-rw-r-- 1 root root 1.3K Aug 22  2022 views.py
+
+/src/codingtang/judge/__pycache__:
+total 28K
+-rw-r--r-- 1 root root  124 Oct  3  2022 __init__.cpython-38.pyc
+-rw-r--r-- 1 root root 1.4K Oct  3  2022 judge_callback.cpython-38.pyc
+-rw-r--r-- 1 root root 1.9K Oct  3  2022 judge_thread.cpython-38.pyc
+-rw-r--r-- 1 root root  181 Oct  3  2022 log.cpython-38.pyc
+-rw-r--r-- 1 root root  162 Oct  3  2022 models.cpython-38.pyc
+-rw-r--r-- 1 root root  525 Oct  3  2022 urls.cpython-38.pyc
+-rw-r--r-- 1 root root 1.3K Oct  3  2022 views.cpython-38.pyc
+
+/src/codingtang/judge/migrations:
+total 0
+-rw-rw-r-- 1 root root 0 Aug 22  2022 __init__.py
+
+/src/codingtang/judge/services:
+total 20K
+-rw-rw-r-- 1 root root  125 Aug 22  2022 __init__.py
+drwxr-xr-x 2 root root 4.0K Oct  3  2022 __pycache__
+-rw-rw-r-- 1 root root 8.5K Aug 22  2022 judge_service.py
+
+/src/codingtang/judge/services/__pycache__:
+total 12K
+-rw-r--r-- 1 root root  133 Oct  3  2022 __init__.cpython-38.pyc
+-rw-r--r-- 1 root root 4.5K Oct  3  2022 judge_service.cpython-38.pyc
+
+/src/codingtang/logs:
+total 101M
+-rw-r--r-- 1 root root 670K May  2 05:56 all.log
+-rw-r--r-- 1 root root 1.0M May  1 08:58 all.log.1
+-rw-r--r-- 1 root root 1.0M Apr 30 07:25 all.log.2
+-rw-r--r-- 1 root root 1.0M Apr 29 10:34 all.log.3
+-rw-r--r-- 1 root root 1.0M Apr 29 02:05 all.log.4
+-rw-r--r-- 1 root root 1.0M Apr 28 10:02 all.log.5
+-rw-r--r-- 1 root root 670K May  2 05:56 error.log
+-rw-r--r-- 1 root root 1.0M May  1 08:58 error.log.1
+-rw-r--r-- 1 root root 1.0M Apr 30 07:25 error.log.2
+-rw-r--r-- 1 root root 1.0M Apr 29 10:34 error.log.3
+-rw-r--r-- 1 root root 1.0M Apr 29 02:05 error.log.4
+-rw-r--r-- 1 root root 1.0M Apr 28 10:02 error.log.5
+-rw-r--r-- 1 root root  89M May  2 05:53 gunicorn.log
+-rw-rw-r-- 1 root root    1 Aug 22  2022 l.txt
+
+/src/codingtang/requirements:
+total 4.0K
+-rw-rw-r-- 1 root root 253 Aug 22  2022 production.txt
